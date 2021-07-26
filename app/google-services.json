@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "903313496799",
+    "project_id": "fir-test-c49d8",
+    "storage_bucket": "fir-test-c49d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903313496799:android:ed846aa7629e27c72ba76a",
+        "android_client_info": {
+          "package_name": "com.rdkardo.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903313496799-5vk9u2aanol9mb2abvjgdnqsv55fg236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ImOoVbjDq9nunna7xxthUNBXZyInUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903313496799-5vk9u2aanol9mb2abvjgdnqsv55fg236.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903313496799:android:6955c1604f7422832ba76a",
+        "android_client_info": {
+          "package_name": "com.rdkardo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903313496799-5vk9u2aanol9mb2abvjgdnqsv55fg236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ImOoVbjDq9nunna7xxthUNBXZyInUNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903313496799-5vk9u2aanol9mb2abvjgdnqsv55fg236.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
